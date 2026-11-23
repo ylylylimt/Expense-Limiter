@@ -2,7 +2,7 @@
 
 This project is a secure Java Spring Boot microservice integrated with MongoDB that tracks and validates client transactions based on monthly spending limits.
 
-### Key Features
+### Explores
 
 * **JWT Authentication** to secure all endpoints and identify clients.
 * **MongoDB integration** with three core collections: `clients`, `limits`, and `transactions`.
